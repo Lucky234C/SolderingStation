@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\12200725\Documents\2_Semester\Project-Ontwerpen\Soldeerstation\soldeerstation\soldeerbout.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=soldeerbout-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=soldeerbout-slotholes.txt|DrillLayers=gtl,gbl

@@ -1,0 +1,38 @@
+Added Component: Designator=ENC1(PEC11R4225FN0024)
+Add component (AddParameter): Name = "Automotive"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Enc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.bourns.com/docs/product-datasheets/pec11r.pdf?sfvrsn=bb617cbf_7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Conn Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "10mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detent"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L1"; Value = "Electromechanical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L2"; Value = "Switches"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L3"; Value = "Encoders"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Description"; Value = "ROTARY ENCODER MECHANICAL 24PPR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Encoder Type"; Value = "Incremental"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "22.3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "PEC11R-4015F-N0024"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Description"; Value = "Encoders 15mm SHAFT NO SWITCH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number Of Circuits"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart"; Value = "https://octopart.com/pec11r-4015f-n0024-bourns-26648251"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pulses Per Rev"; Value = "24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-30°C to +70°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range High"; Value = "+70°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range Low"; Value = "-30°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating Dc"; Value = "5V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC3D_2 Pin=ENC1-1
+Added Pin To Net: NetName=NetC4D_2 Pin=ENC1-2
+Add Pin To Net: Unknown Pin: Pin ENC1-3
+Add Pin To Net: Unknown Pin: Pin ENC1-4
+Add Pin To Net: Unknown Pin: Pin ENC1-5
+Added Member To Class: ClassName=Display Member=Component ENC1 ROTARY_ENCODER_1
+Added Room: Name=CPU
+Added Room: Name=Display
+Added Room: Name=PWM_Soldeerbout
+Added Room: Name=thermokoppel
+Added Room: Name=voeding

@@ -1,0 +1,76 @@
+Change Physical Footprint: Designator=B1 Old Footprint=ttf New Footprint=ttf
+Change Physical Footprint: Designator=B2 Old Footprint=ttf New Footprint=ttf
+Change Physical Footprint: Designator=C1 Old Footprint=CE_D25_L25_plugin New Footprint=CE_D25_L25_plugin
+Change Physical Footprint: Designator=C1D Old Footprint=CE_D6,3_L4,5 New Footprint=CE_D6,3_L4,5
+Change Physical Footprint: Designator=C2 Old Footprint=CE_D6,3_L4,5 New Footprint=CE_D6,3_L4,5
+Change Physical Footprint: Designator=C2D Old Footprint=CC_0805_L New Footprint=CC_0805_L
+Change Physical Footprint: Designator=C3 Old Footprint=CC_0805_L New Footprint=CC_0805_L
+Change Physical Footprint: Designator=C3D Old Footprint=CC_0805_L New Footprint=CC_0805_L
+Change Physical Footprint: Designator=C4 Old Footprint=CE_D6,3_L4,5 New Footprint=CE_D6,3_L4,5
+Change Physical Footprint: Designator=C4D Old Footprint=CC_0805_L New Footprint=CC_0805_L
+Change Physical Footprint: Designator=C5 Old Footprint=CE_D6,3_L4,5 New Footprint=CE_D6,3_L4,5
+Change Physical Footprint: Designator=C5D Old Footprint=CC_0805_L New Footprint=CC_0805_L
+Change Physical Footprint: Designator=C6 Old Footprint=CC_0805_L New Footprint=CC_0805_L
+Change Physical Footprint: Designator=C7 Old Footprint=CC_0805_L New Footprint=CC_0805_L
+Change Physical Footprint: Designator=C8 Old Footprint=CC_0805_L New Footprint=CC_0805_L
+Change Physical Footprint: Designator=C9 Old Footprint=CC_0805_L New Footprint=CC_0805_L
+Change Physical Footprint: Designator=C10 Old Footprint=CE_D6,3_L4,5 New Footprint=CE_D6,3_L4,5
+Change Physical Footprint: Designator=C11 Old Footprint=CC_0805_L New Footprint=CC_0805_L
+Change Physical Footprint: Designator=C12 Old Footprint=CC_0805_L New Footprint=CC_0805_L
+Change Physical Footprint: Designator=C13 Old Footprint=CC_0805_L New Footprint=CC_0805_L
+Change Physical Footprint: Designator=C14 Old Footprint=CC_0805_L New Footprint=CC_0805_L
+Change Physical Footprint: Designator=D1 Old Footprint=SOD-123FL New Footprint=SOD-123FL
+Change Physical Footprint: Designator=D2 Old Footprint=SOD-123FL New Footprint=SOD-123FL
+Change Physical Footprint: Designator=D3 Old Footprint=SOD-123FL New Footprint=SOD-123FL
+Change Physical Footprint: Designator=ENC1? Old Footprint=PEC11R_4220F_S0012 New Footprint=PEC11R_4220F_S0012
+Change Physical Footprint: Designator=IC1 Old Footprint=OKI78SR515W36C New Footprint=OKI78SR515W36C
+Change Physical Footprint: Designator=IC1D Old Footprint=SOP_20_M New Footprint=SOP_20_M
+Change Physical Footprint: Designator=IC2 Old Footprint=MSOP_8_M New Footprint=MSOP_8_M
+Change Physical Footprint: Designator=IC3 Old Footprint=TQFP_48_M New Footprint=TQFP_48_M
+Change Physical Footprint: Designator=K1 Old Footprint=2x1 Schroef pin TECO-282836-2_V New Footprint=2x1 Schroef pin TECO-282836-2_V
+Change Physical Footprint: Designator=K1D Old Footprint=5x2 pin - TECO-1-1634688-0-10_V New Footprint=5x2 pin - TECO-1-1634688-0-10_V
+Change Physical Footprint: Designator=K2 Old Footprint=2x1 Schroef pin TECO-282836-2_V New Footprint=2x1 Schroef pin TECO-282836-2_V
+Change Physical Footprint: Designator=K3 Old Footprint=2x1 Schroef pin TECO-282836-2_V New Footprint=2x1 Schroef pin TECO-282836-2_V
+Change Physical Footprint: Designator=K4 Old Footprint=3x1 pin New Footprint=3x1 pin
+Change Physical Footprint: Designator=K5 Old Footprint=2x1 pin New Footprint=2x1 pin
+Change Physical Footprint: Designator=K6 UART2 Old Footprint=4x1 pin New Footprint=4x1 pin
+Change Physical Footprint: Designator=K7 Old Footprint=3x1 pin New Footprint=3x1 pin
+Change Physical Footprint: Designator=K8 Old Footprint=2x1 Schroef pin TECO-282836-2_V New Footprint=2x1 Schroef pin TECO-282836-2_V
+Change Physical Footprint: Designator=K9 Old Footprint=5x1 pin New Footprint=5x1 pin
+Change Physical Footprint: Designator=K10 UART Old Footprint=3x1 pin New Footprint=3x1 pin
+Change Physical Footprint: Designator=K11 Old Footprint=3x2 pin FP-M20-9980346-MFG New Footprint=3x2 pin FP-M20-9980346-MFG
+Change Physical Footprint: Designator=K12 Old Footprint=5x2 pin - TECO-1-1634688-0-10_V New Footprint=5x2 pin - TECO-1-1634688-0-10_V
+Change Physical Footprint: Designator=L1 Old Footprint=CC_0805_L New Footprint=CC_0805_L
+Change Physical Footprint: Designator=L2 Old Footprint=2545 New Footprint=2545
+Change Physical Footprint: Designator=LD1 Old Footprint=kw4 New Footprint=kw4
+Change Physical Footprint: Designator=R1 Old Footprint=R_0805_M New Footprint=R_0805_M
+Change Physical Footprint: Designator=R1D Old Footprint=CC_0805_m New Footprint=CC_0805_m
+Change Physical Footprint: Designator=R2 Old Footprint=R_0805_M New Footprint=R_0805_M
+Change Physical Footprint: Designator=R2D Old Footprint=R_0805_M New Footprint=R_0805_M
+Change Physical Footprint: Designator=R3 Old Footprint=R_0805_M New Footprint=R_0805_M
+Change Physical Footprint: Designator=R3D Old Footprint=R_0805_M New Footprint=R_0805_M
+Change Physical Footprint: Designator=R4 Old Footprint=R_0805_M New Footprint=R_0805_M
+Change Physical Footprint: Designator=R5 Old Footprint=R_0805_M New Footprint=R_0805_M
+Change Physical Footprint: Designator=R6 Old Footprint=R_0805_M New Footprint=R_0805_M
+Change Physical Footprint: Designator=R7 Old Footprint=R_0805_M New Footprint=R_0805_M
+Change Physical Footprint: Designator=R8 Old Footprint=R_0805_M New Footprint=R_0805_M
+Change Physical Footprint: Designator=R9 Old Footprint=R_0805_M New Footprint=R_0805_M
+Change Physical Footprint: Designator=R10 Old Footprint=R_0805_M New Footprint=R_0805_M
+Change Physical Footprint: Designator=R11 Old Footprint=R_0805_M New Footprint=R_0805_M
+Change Physical Footprint: Designator=R12 Old Footprint=R_0805_M New Footprint=R_0805_M
+Change Physical Footprint: Designator=R13 Old Footprint=R_0805_M New Footprint=R_0805_M
+Change Physical Footprint: Designator=R14 Old Footprint=R_0805_M New Footprint=R_0805_M
+Change Physical Footprint: Designator=R15 Old Footprint=R_0805_M New Footprint=R_0805_M
+Change Physical Footprint: Designator=R16 Old Footprint=R_0805_M New Footprint=R_0805_M
+Change Physical Footprint: Designator=R17 Old Footprint=R_0805_M New Footprint=R_0805_M
+Change Physical Footprint: Designator=R18 Old Footprint=R_0805_M New Footprint=R_0805_M
+Change Physical Footprint: Designator=R19 Old Footprint=R_0805_M New Footprint=R_0805_M
+Change Physical Footprint: Designator=R20 Old Footprint=R_0805_M New Footprint=R_0805_M
+Change Physical Footprint: Designator=R21 Old Footprint=R_0805_M New Footprint=R_0805_M
+Change Physical Footprint: Designator=R22 Old Footprint=R_0805_M New Footprint=R_0805_M
+Change Physical Footprint: Designator=RE1 Old Footprint=RT42 New Footprint=RT42
+Change Physical Footprint: Designator=T1 Old Footprint=SOT_23 New Footprint=SOT_23
+Change Physical Footprint: Designator=T2 Old Footprint=SOT_23 New Footprint=SOT_23
+Change Physical Footprint: Designator=T3 Old Footprint=TO_252 New Footprint=TO_252
+Change Physical Footprint: Designator=T4 Old Footprint=SOT_23 New Footprint=SOT_23
+Change Physical Footprint: Designator=T5 Old Footprint=SOT_23 New Footprint=SOT_23

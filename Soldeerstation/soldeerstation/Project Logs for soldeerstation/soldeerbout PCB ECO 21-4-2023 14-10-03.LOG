@@ -1,0 +1,23 @@
+Change Component Footprint: Designator=K5 Old Footprint=2x1 pin New Footprint=2x1 pin
+Change Component Footprint: Designator=K3 Old Footprint=2x1 Schroef pin TECO-282836-2_V New Footprint=2x1 Schroef pin TECO-282836-2_V
+Change Component Footprint: Designator=K8 Old Footprint=2x1 Schroef pin TECO-282836-2_V New Footprint=2x1 Schroef pin TECO-282836-2_V
+Change Component Footprint: Designator=K4 Old Footprint=3x1 pin New Footprint=3x1 pin
+Change Component Footprint: Designator=K7 Old Footprint=3x1 pin New Footprint=3x1 pin
+Change Component Footprint: Designator=K10 UART Old Footprint=3x1 pin New Footprint=3x1 pin
+Change Component Footprint: Designator=K6 UART2 Old Footprint=4x1 pin New Footprint=4x1 pin
+Change Component Footprint: Designator=K9 Old Footprint=5x1 pin New Footprint=5x1 pin
+Change Component Footprint: Designator=K12 Old Footprint=5x2 pin - TECO-1-1634688-0-10_V New Footprint=5x2 pin - TECO-1-1634688-0-10_V
+Add Pin To Net: Unknown Pin: Pin ENC1-3
+Add Pin To Net: Unknown Pin: Pin ENC1-4
+Add Pin To Net: Unknown Pin: Pin ENC1-5
+Added Pin To Net: NetName=NetB1_3 Pin=RE1-11
+Added Pin To Net: NetName=NetK2_2 Pin=RE1-12
+Added Pin To Net: NetName=NetB2_3 Pin=RE1-21
+Added Pin To Net: NetName=NetB1_4 Pin=RE1-22
+Added Pin To Net: NetName=NetK2_2 Pin=RE1-24
+Added Pin To Net: NetName=+5 Pin=RE1-A1
+Added Pin To Net: NetName=NetD1_2 Pin=RE1-A2
+Added Room: Name=CPU
+Added Room: Name=PWM_Soldeerbout
+Added Room: Name=thermokoppel
+Added Room: Name=voeding

@@ -1,0 +1,32 @@
+Added Component: Designator=ENC1A(PEC11R_4220F_S0012)
+Add component (AddParameter): Name = "Built in Switch"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detent"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Encoder Type"; Value = "Mechanical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "13.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Hole Diameter"; Value = "7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "26.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "70°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-30°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Channels"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "Quadrature"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "150"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pulses per Revolution"; Value = "12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "PEC11R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "PC Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Mechanical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "12.5mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC5D_2 Pin=ENC1A-1
+Added Pin To Net: NetName=GND Pin=ENC1A-2
+Added Member To Class: ClassName=Display Member=Component ENC1A PEC11R-4220F-S0012
+Added Room: Name=CPU
+Added Room: Name=Display
+Added Room: Name=PWM_Soldeerbout
+Added Room: Name=thermokoppel
+Added Room: Name=voeding

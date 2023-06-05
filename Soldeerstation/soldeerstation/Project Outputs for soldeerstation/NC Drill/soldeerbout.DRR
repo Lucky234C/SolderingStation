@@ -1,0 +1,25 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: soldeerbout.PcbDoc   12-5-2023  13:17:08
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : soldeerbout-RoundHoles.TXT
+ASCII SlotHoles File : soldeerbout-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      20mil (0.508mm)                                           Round             65        PTH        26.11inch (663.16mm)
+T2      28mil (0.7mm)                                             Round             12        PTH        1.60inch (40.64mm)
+T3      39mil (1mm)                                               Round             5         PTH        0.96inch (24.50mm)
+T4      40mil (1.02mm)                                            Round             28        PTH        8.57inch (217.64mm)
+T5      43mil (1.08mm)                                            Round             3         PTH        0.20inch (5.10mm)
+T6      43mil (1.1mm)                                             Round             26        PTH        7.34inch (186.32mm)
+T7      50mil (1.27mm)                                            Round             2         PTH        0.39inch (10.00mm)
+T8      55mil (1.4mm)                                             Round             8         PTH        2.29inch (58.18mm)
+T9      70mil (1.778mm)                                           Round             6         PTH        2.63inch (66.91mm)
+T10     71mil (1.8mm)                                             Slot              2         PTH        1.11inch (28.29mm)
+T11     120mil (3.048mm)                                          Round             8         PTH        16.78inch (426.09mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              165
+
+Total Processing Time (hh:mm:ss) : 00:00:00
